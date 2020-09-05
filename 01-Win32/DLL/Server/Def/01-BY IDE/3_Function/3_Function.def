@@ -1,0 +1,5 @@
+LIBRARY 3_Function
+EXPORTS 
+		MakeCube
+		AreaofSquare
+		AreaofRectangle

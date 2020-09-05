@@ -1,0 +1,5 @@
+LIBRARY MyMath
+EXPORTS 
+		MakeSquare
+		MakeCube
+
